@@ -1,0 +1,11 @@
+{
+  "name": "final-project-revive-main",
+  "version": "1.0.0",
+  "description": "Group Members : 1. Meghna Allam (allam.me@northeastern.edu) 2. Bhakti Bharat Desai (desai.bhak@northeastern.edu) 3. Sai Sravani Pillarisetty (pillarisetty.s@northeastern.edu) 4. Divyasree Gandikota  (gandikota.d@northeastern.edu)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
